@@ -1,9 +1,17 @@
-import React from "react";
-
 const Employees = [
-  { id: "1", name: "Andrei", age: "21" },
-  { id: "2", name: "Adrian", age: "23" },
-  { id: "3", name: "Gabriel", age: "23" },
-];
+    {
+        id:"1",
+        Name:"Manoj Deshwal",
+        Age:"30"
+    },{
+        id:"2",
+        Name:"Virat Kohli",
+        Age:"32"
+    },{
+        id:"3",
+        Name:"Rohit Sharma",
+        Age:"33"
+    }
+]
 
 export default Employees;
